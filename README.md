@@ -22,7 +22,7 @@ Loja de carros desenvolvida utilizando paradigmas de Orientação Objetos
 
 Segue um vídeo explicativo do código e um diagrama abaixo.
 
-https://youtu.be/4f5qepSjXt4
+https://clipchamp.com/watch/nYGf4d6o9cm
 
 ![image](https://user-images.githubusercontent.com/84422477/235577123-5e0df1cb-a82e-46dd-83ab-8cbe6bb056e0.png)
 
